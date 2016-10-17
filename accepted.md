@@ -91,6 +91,19 @@ try to be entertaining in our articles.
 
 - Formatting is in POD with a custom header.  See [the source for previous year's articles](https://github.com/perladvent/Perl-Advent/tree/master/2015/articles) for examples.  You can use [`=for html`](https://github.com/perladvent/Perl-Advent/blame/master/2015/articles/2015-12-02.pod#L75) or even [`=for web_only` and `=for rss_only`](https://github.com/perladvent/Perl-Advent/blame/master/2015/articles/2015-12-01.pod#L7) if needed to add custom HTML to your POD.
 
+## When Will My Article Go Live?
+
+As time moves on the editors will move your article from the submissions
+directory into the articles directory.  At that point your article will get a
+`2016-12-DD.pod` file name which will determine when it goes live.
+
+However: Note that the exact date that things go live are always subject to
+last minute changes (or how we like to say in the business "Oh crud that other
+article isn't ready now I need to re-arrange everything".)
+
+The Perl Advent Calendar is rebuilt every hour, so changes you make after your
+article goes live will automatically be published within the hour.
+
 ## Deadlines
 
 As a reminder, here's the deadlines for the article:
