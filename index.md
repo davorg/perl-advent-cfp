@@ -4,6 +4,11 @@ layout: default
 
 ## You are cordially invited to write an article for the 2016 Perl Advent Calendar.
 
+Even though the CFP offically closed at midnight on Sunday October 16th EST,
+there's still a few spots left if you would like to submit.
+
+## What's all this about then?
+
 As an advent calendar author you will write one entry on a module of your
 choosing that will be revealed to the world on
 [The Perl Advent Calendar](http://www.perladvent.org/)
