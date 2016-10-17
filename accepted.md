@@ -54,7 +54,7 @@ Then you'll be able to build the advent calendar.  First change to the top
 level entry for y2016:
 
     cd Perl-Advent
-    cd y2016
+    cd 2016
 
 Copy over the submission
 
