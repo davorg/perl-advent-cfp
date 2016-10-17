@@ -21,11 +21,11 @@ And clone the repository.
 Once you've got a local clone of the repo you should go ahead and *switch to the
 y2016 branch*.
 
+    cd Perl-Advent
     git checkout y2016
 
 Then you should enter the submission directory:
 
-    cd Perl-Advent
     cd 2016/submission
 
 Now you should create your article in this directory.  Call it something
