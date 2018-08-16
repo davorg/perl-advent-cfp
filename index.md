@@ -4,7 +4,7 @@ layout: default
 
 ## You are cordially invited to write an article for the 2018 Perl Advent Calendar.
 
-Even though the CFP offically closed at midnight on Sunday September 30th EST.
+The CFP is open on midnight on Sunday September 30th EST.
 
 ## What's all this about then?
 
