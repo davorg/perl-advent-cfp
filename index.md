@@ -35,8 +35,8 @@ We look forward to hearing from you!
 
 ### Timelines ###
 
-* 11:59 PM EST Saturday **September 30th 2018**:
-  Deadline for Call For Participation (CFP).
+* 11:59 PM EST <strike>Saturday September 30th 2018</strike> **Ongoing**
+  A few spaces can be made availble - so we're still accepting submissions.  Please use the form above for entry!
 
 * 11:59 PM EST Sunday **October 1st 2018**: Authors of all CFP submissions will
   be notified if their article has been accepted.
