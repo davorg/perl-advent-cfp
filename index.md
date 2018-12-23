@@ -62,7 +62,7 @@ We look forward to hearing from you!
 * 11:59 PM EST Friday **November 15th 2019**: Deadline for the final changes
   to the articles.
 
-* 12:00 AM EST Sunday **December 1st 2018**: Advent begins.  Go live date.
+* 12:00 AM EST Sunday **December 1st 2019**: Advent begins.  Go live date.
 
 ### Guidelines on the Articles ###
 
