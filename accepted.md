@@ -19,14 +19,14 @@ And clone the repository.
     git clone git@github.com:perladvent/Perl-Advent.git
 
 Once you've got a local clone of the repo you should go ahead and *switch to the
-y2016 branch*.
+y2022 branch*.
 
     cd Perl-Advent
-    git checkout y2016
+    git checkout y2022
 
 Then you should enter the submission directory:
 
-    cd 2016/submission
+    cd 2022/submission
 
 Now you should create your article in this directory.  Call it something
 named after the module
@@ -39,7 +39,7 @@ named after the module
 You'll note that you're *directly* working in the live repo here - there's no
 need for pull requests when editing your own submission. (However: if you want
 to make other changes to other articles etc, you should however make a new
-branch from y2016 then make a pull request against y2016.)
+branch from y2022 then make a pull request against y2022.)
 
 ## Local previewing
 
@@ -51,27 +51,27 @@ module from the CPAN:
      cpanm WWW::AdventCalendar
 
 Then you'll be able to build the advent calendar.  First change to the top
-level entry for y2016:
+level entry for y2022:
 
     cd Perl-Advent
-    cd 2016
+    cd 2022
 
 Copy over the submission
 
     mkdir articles
-    cp submission/my-module-name-in-kebab-case.pod articles/2016-12-01.pod
+    cp submission/my-module-name-in-kebab-case.pod articles/2022-12-01.pod
 
 Then run the `advcal` command
 
-    advcal -c advent.ini --today 2017-01-01
+    advcal -c advent.ini --today 2022-01-01
 
-You can now see the resulting article in `out/2016-12-01.html`!
+You can now see the resulting article in `out/2022-12-01.html`!
 
 Whatever you do, don't check in the articles directory with these changes!
 Heck, you might want to protect yourself from accidentally doing that:
 
     cd ..
-    echo '2016/articles' >>.git/info/exclude
+    echo '2022/articles' >>.git/info/exclude
 
 (You can undo this later when your article has been officially moved to this
 directory)
@@ -79,7 +79,7 @@ directory)
 ### Guidelines on the Articles ###
 
 - The best way to see what we're after in an article is to take a look at
-  [the previous year's articles](http://www.perladvent.org/2015/).
+  [the previous years' articles](http://www.perladvent.org/2015/).
 
 - Our articles should try and be light and trivial and along the Christmas theme.  Our variable names can be `$rudolph`, or `$frosty`, or `$mrhankey`.  Our articles
 are often stories of problems fictional Christmas characters have.  In all, we
@@ -95,7 +95,7 @@ try to be entertaining in our articles.
 
 As time moves on the editors will move your article from the submissions
 directory into the articles directory.  At that point your article will get a
-`2016-12-DD.pod` file name which will determine when it goes live.
+`2022-12-DD.pod` file name which will determine when it goes live.
 
 However: Note that the exact date that things go live are always subject to
 last minute changes (or how we like to say in the business "Oh crud that other
@@ -108,17 +108,17 @@ article goes live will automatically be published within the hour.
 
 As a reminder, here's the deadlines for the article:
 
-* 11:59 PM EST Tuesday **November 1st 2016**: First draft of article submission
+* 11:59 PM EST Tuesday **November 1st 2022**: First draft of article submission
   committed by author into Perl Advent Calendar Github repository.  This need
   not be 100% completed at this point, but at this point the Perl Advent
   Calendar editorial team will start the editing process (correcting typos,
   editing for house style, making sure the article renders correctly, suggesting
   language and graphics improvements, etc.)
 
-* 11:59 PM EST Wednesday **November 30th 2016**: Deadline for the final changes
+* 11:59 PM EST Tuesday **November 15th 2022**: Deadline for the final changes
   to the articles
 
-* 12:00 AM EST Thursday **December 1st 2016**: Advent begins.  Go live date.
+* 12:00 AM EST Thursday **December 1st 2022**: Advent begins.  Go live date.
 
 ## Questions?
 
