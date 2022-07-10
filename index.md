@@ -22,7 +22,7 @@ by the article author, and more often than not this is not the case.
 The Perl Advent Calendar seeks to be an inclusive project.
 We encourage and sincerely welcome articles from authors of color,
 women, queer article authors, transgender authors and from other communities
-not well represented in the tech world.  We do not discrimnate on the basis
+not well represented in the tech world.  We do not discriminate on the basis
 of religion (yes, that means you can write a Kwanzaa, Hanukkah, Solstice,
 Wintereenmas, or Agnostica article if you want.)  Our
 [Contributor Covenant Code of Conduct](https://github.com/perladvent/Perl-Advent/blob/master/code-of-conduct.md)
@@ -34,8 +34,8 @@ English as a second language are encouraged to submit.  Each article submission
 undergoes an editorial process which assists those authors who may need help
 with their writing.
 
-In order to participate in the Perl Advent Calendar please use
-[this form](https://docs.google.com/forms/d/e/1FAIpQLSfQUctVOLGhwCZtBKlnPaGxcszmQiBsq5Wck-t5ceGpB6C1IQ/viewform)
+In order to participate in the Perl Advent Calendar please [create an issue on
+GitHub](https://github.com/perladvent/Perl-Advent/issues/new?assignees=&labels=article&template=i-want-to-write-an-article.md&title=)
 to submit your chosen module and a brief description of your article (which need
 be no more than two or three sentences) by no later than **11:59 PM EST Friday
 September 30th 2022**.  If you don't have an idea for an article but would
