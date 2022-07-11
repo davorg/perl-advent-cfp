@@ -122,5 +122,5 @@ As a reminder, here's the deadlines for the article:
 
 ## Questions?
 
-You can ask me straight away if you have any questions.  Just drop an email
-to [mark@twoshortplanks.com](mailto:mark@twoshotplanks.com)
+Please comment on the original issue you raised when you submitted your article
+suggestion. Thank you.
