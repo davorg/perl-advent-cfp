@@ -89,7 +89,7 @@ try to be entertaining in our articles.
 
 - Pictures, graphs, and other graphics are good and highly encouraged.  Last year we included animated gifs of terminal output, renderes of spinning OpenGL snowflakes, and a full interactive JavaScript map of the world showing off GeoIP location from Perl.
 
-- Formatting is in POD with a custom header.  See [the source for previous year's articles](https://github.com/perladvent/Perl-Advent/tree/master/2022/articles) for examples.  You can use [`=for html`](https://github.com/perladvent/Perl-Advent/blame/master/2015/articles/2015-12-02.pod#L75) or even [`=for web_only` and `=for rss_only`](https://github.com/perladvent/Perl-Advent/blame/master/2015/articles/2015-12-01.pod#L7) if needed to add custom HTML to your POD.
+- Formatting is in POD with a custom header.  See [the source for previous year's articles](https://github.com/perladvent/Perl-Advent/tree/main/2022/articles) for examples.  You can use [`=for html`](https://github.com/perladvent/Perl-Advent/blame/main/2015/articles/2015-12-02.pod#L75) or even [`=for web_only` and `=for rss_only`](https://github.com/perladvent/Perl-Advent/blame/main/2015/articles/2015-12-01.pod#L7) if needed to add custom HTML to your POD.
 
 ## When Will My Article Go Live?
 

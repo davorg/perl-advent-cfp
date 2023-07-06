@@ -25,7 +25,7 @@ women, queer article authors, transgender authors and from other communities
 not well represented in the tech world.  We do not discriminate on the basis
 of religion (yes, that means you can write a Kwanzaa, Hanukkah, Solstice,
 Wintereenmas, or Agnostica article if you want.)  Our
-[Contributor Covenant Code of Conduct](https://github.com/perladvent/Perl-Advent/blob/master/code-of-conduct.md)
+[Contributor Covenant Code of Conduct](https://github.com/perladvent/Perl-Advent/blob/main/code-of-conduct.md)
 governs our interactions in the project.
 
 The Perl Advent Calendar believes that the pool of authors should not be
