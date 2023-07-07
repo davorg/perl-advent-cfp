@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## You are cordially invited to write an article for the 2022 Perl Advent Calendar.
+## You are cordially invited to write an article for the 2023 Perl Advent Calendar.
 
 The CFP is open until midnight on Friday September 30th EST.
 
@@ -10,8 +10,8 @@ The CFP is open until midnight on Friday September 30th EST.
 
 As an advent calendar author you will write one entry on a module of your
 choosing that will be revealed to the world on
-[The Perl Advent Calendar](http://www.perladvent.org/)
-on a given day of Advent (between the 1st and 24th of December 2022 inclusive).
+[The Perl Advent Calendar](https://www.perladvent.org/)
+on a given day of Advent (between the 1st and 24th of December 2023 inclusive).
 
 The Perl Advent Calendar welcomes diverse author submissions from all types of
 Perl programmers.  It is our firm belief that every Perl programmer, no matter
@@ -25,7 +25,7 @@ women, queer article authors, transgender authors and from other communities
 not well represented in the tech world.  We do not discriminate on the basis
 of religion (yes, that means you can write a Kwanzaa, Hanukkah, Solstice,
 Wintereenmas, or Agnostica article if you want.)  Our
-[Contributor Covenant Code of Conduct](https://github.com/perladvent/Perl-Advent/blob/master/code-of-conduct.md)
+[Contributor Covenant Code of Conduct](https://github.com/perladvent/Perl-Advent/blob/main/code-of-conduct.md)
 governs our interactions in the project.
 
 The Perl Advent Calendar believes that the pool of authors should not be
@@ -38,7 +38,7 @@ In order to participate in the Perl Advent Calendar please [create an issue on
 GitHub](https://github.com/perladvent/Perl-Advent/issues/new?assignees=&labels=article&template=i-want-to-write-an-article.md&title=)
 to submit your chosen module and a brief description of your article (which need
 be no more than two or three sentences) by no later than **11:59 PM EST Friday
-September 30th 2022**.  If you don't have an idea for an article but would
+September 30th 2023**.  If you don't have an idea for an article but would
 be open to some suggestions or coming up with an article idea later on, just say
 so in the submission!
 
@@ -46,28 +46,28 @@ We look forward to hearing from you!
 
 ### Timelines ###
 
-* 11:59 PM EST Friday September 30th 2022: Deadline for article proposal
+* 11:59 PM EST Friday September 30th 2023: Deadline for article proposal
   submission.
 
-* 11:59 PM EST Saturday **October 1st 2022**: Authors of all CFP submissions will
+* 11:59 PM EST Saturday **October 1st 2023**: Authors of all CFP submissions will
   be notified if their article has been accepted.
 
-* 11:59 PM EST Tuesday **November 1st 2022**: First draft of article submission
+* 11:59 PM EST Tuesday **November 1st 2023**: First draft of article submission
   committed by author into Perl Advent Calendar Github repository.  This need
   not be 100% completed at this point, but at this stage the Perl Advent
   Calendar editorial team will start the editing process (correcting typos,
   editing for house style, making sure the article renders correctly, suggesting
   language and graphics improvements, etc).
 
-* 11:59 PM EST Tuesday **November 15th 2022**: Deadline for the final changes
+* 11:59 PM EST Tuesday **November 15th 2023**: Deadline for the final changes
   to the articles.
 
-* 12:00 AM EST Thursday **December 1st 2022**: Advent begins.  Go live date.
+* 12:00 AM EST Thursday **December 1st 2023**: Advent begins.  Go live date.
 
 ### Guidelines on the Articles ###
 
 - The best way to see what we're after in an article is to take a look at
-  [a previous year's articles](http://www.perladvent.org/2017/).
+  [a previous year's articles](https://www.perladvent.org/2022/).
 
 - Our articles should try and be light and trivial and along the Christmas theme.
 Our variable names can be `$rudolph`, or `$frosty`, or `$mrhankey`.  Our articles
@@ -78,6 +78,6 @@ try to be entertaining in our articles.
 
 - Pictures, graphs, and other graphics are good and highly encouraged.  In the last few years we included animated gifs of terminal output, renders of spinning OpenGL snowflakes, SVG Christmas trees, Christmas cats and dogs from Imgur, Spotify playlists, a full interactive JavaScript map of the world showing off GeoIP location from Perl, and even Perl executing in the browser.  Go nuts!
 
-- Formatting is in POD with a custom header.  See [the source for previous years' articles](https://github.com/perladvent/Perl-Advent/tree/master/2017/articles) for examples.  You can use [`=for html`](https://github.com/perladvent/Perl-Advent/blame/master/2015/articles/2015-12-02.pod#L75) or even [`=for web_only` and `=for rss_only`](https://github.com/perladvent/Perl-Advent/blame/master/2015/articles/2015-12-01.pod#L7) if needed to add custom HTML to your POD.
+- Formatting is in POD with a custom header.  See [the source for previous years' articles](https://github.com/perladvent/Perl-Advent/tree/main/2022/articles) for examples.  You can use [`=for html`](https://github.com/perladvent/Perl-Advent/blame/main/2015/articles/2015-12-02.pod#L75) or even [`=for web_only` and `=for rss_only`](https://github.com/perladvent/Perl-Advent/blame/main/2015/articles/2015-12-01.pod#L7) if needed to add custom HTML to your POD.
 
 {% include sharing.html %}
