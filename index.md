@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## You are cordially invited to write an article for the 2023 Perl Advent Calendar.
+## You are cordially invited to write an article for the 2024 Perl Advent Calendar.
 
 The CFP is open until midnight on Friday September 30th EST.
 
@@ -11,7 +11,7 @@ The CFP is open until midnight on Friday September 30th EST.
 As an advent calendar author you will write one entry on a module of your
 choosing that will be revealed to the world on
 [The Perl Advent Calendar](https://www.perladvent.org/)
-on a given day of Advent (between the 1st and 24th of December 2023 inclusive).
+on a given day of Advent (between the 1st and 24th of December 2024 inclusive).
 
 The Perl Advent Calendar welcomes diverse author submissions from all types of
 Perl programmers.  It is our firm belief that every Perl programmer, no matter
@@ -38,7 +38,7 @@ In order to participate in the Perl Advent Calendar please [create an issue on
 GitHub](https://github.com/perladvent/Perl-Advent/issues/new?assignees=&labels=article&template=i-want-to-write-an-article.md&title=)
 to submit your chosen module and a brief description of your article (which need
 be no more than two or three sentences) by no later than **11:59 PM EST Friday
-September 30th 2023**.  If you don't have an idea for an article but would
+September 30th 2024**.  If you don't have an idea for an article but would
 be open to some suggestions or coming up with an article idea later on, just say
 so in the submission!
 
@@ -46,23 +46,23 @@ We look forward to hearing from you!
 
 ### Timelines ###
 
-* 11:59 PM EST Friday September 30th 2023: Deadline for article proposal
+* 11:59 PM EST Friday September 30th 2024: Deadline for article proposal
   submission.
 
-* 11:59 PM EST Saturday **October 1st 2023**: Authors of all CFP submissions will
+* 11:59 PM EST Saturday **October 1st 2024**: Authors of all CFP submissions will
   be notified if their article has been accepted.
 
-* 11:59 PM EST Tuesday **November 1st 2023**: First draft of article submission
+* 11:59 PM EST Tuesday **November 1st 2024**: First draft of article submission
   committed by author into Perl Advent Calendar Github repository.  This need
   not be 100% completed at this point, but at this stage the Perl Advent
   Calendar editorial team will start the editing process (correcting typos,
   editing for house style, making sure the article renders correctly, suggesting
   language and graphics improvements, etc).
 
-* 11:59 PM EST Tuesday **November 15th 2023**: Deadline for the final changes
+* 11:59 PM EST Tuesday **November 15th 2024**: Deadline for the final changes
   to the articles.
 
-* 12:00 AM EST Thursday **December 1st 2023**: Advent begins.  Go live date.
+* 12:00 AM EST Thursday **December 1st 2024**: Advent begins.  Go live date.
 
 ### Guidelines on the Articles ###
 
